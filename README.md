@@ -20,6 +20,7 @@ The "Inventory Management System" challenge is designed to build a server-side a
    - NodeJS (latest stable version) (https://nodejs.org/en/download)
    - Use TypeScript language (https://www.typescriptlang.org/)
    - Use NestJS framework for building RESTful API (https://nestjs.com/)
+   - Use NesJS database with Prisma ORM serverless DB (https://docs.nestjs.com/recipes/prisma) for storing data
    - Use Postman to create mocks / test your service (https://www.postman.com/downloads/)
 3. **Implementation Details**: 
    - Define endpoints for products (`/products`), categories (`/categories`), and orders (`/orders`):
