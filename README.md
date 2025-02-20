@@ -1,9 +1,9 @@
 
-# Backend Challenge - Inventory Management Application
+# Backend Challenge - Inventory Management System
 
 ## Introduction
 
-The "Inventory Management Application" challenge is designed to build a RESTful API that allows management of products, categories, orders, and potentially user accounts.
+The "Inventory Management System" challenge is designed to build a server-side application that allows management of products, categories, orders, and potentially user accounts.
 
 ### Objectives
 
